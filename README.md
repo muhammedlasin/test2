@@ -1,3 +1,2 @@
 # test2
-
-CHANGE MADE BY NAVANEETH
+conflict resolved by lasin and navaneeth
