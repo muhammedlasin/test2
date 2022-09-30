@@ -1,2 +1,2 @@
 # test2
-Change made by lasin
+conflict resolved by lasin and navaneeth
